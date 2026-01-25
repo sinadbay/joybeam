@@ -16,6 +16,7 @@ Most of your data resides exclusively on your iPhone.
 To support backups and community features, we use **Firebase (Google Cloud)**:
 *   **Encrypted Content**: We sync your reflections and gratitudes to the cloud so you don’t lose them. However, because this content is encrypted on your device, **it cannot be read by anyone else**, including JoyBeam developers.
 *   **Social Data**: Your phone number, profile photo, and circle names are stored to enable social discovery and "Beaming" support to friends.
+*   **Lumi Chat Backup**: Your AI conversations (Lumi Chat) are backed up securely for multi-device support. Conversations are automatically and permanently deleted from our servers after **30 days**.
 
 ## 3. Artificial Intelligence (AI)
 JoyBeam uses **OpenAI** (GPT-4o) to provide personalized growth insights:
