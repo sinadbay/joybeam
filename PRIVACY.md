@@ -74,7 +74,7 @@ We use Google Analytics for Firebase to understand how JoyBeam is used and to im
 
 JoyBeam is owned and operated by **Dbaydev LLC**.
 
-If you have questions about this policy or your data rights under the 2026 AI Transparency Acts, please contact us through the app's support channel or at your designated support URL (e.g. https://dbay.dev/joybeam/support).
+If you have questions about this policy or your data rights under the 2026 AI Transparency Acts, please contact us through the app's support channel or at your designated support URL (https://dbay.dev/#contact).
 
 ---
 
